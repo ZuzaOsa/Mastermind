@@ -1,0 +1,51 @@
+.cell, .solution {
+    height:50px;
+    width:50px;
+    border: 2px solid #333;
+    border-radius: 40px;
+    background-color: white;
+}
+
+.result {
+    height: 50px;
+    width:100px;
+    border: 2px;
+    border-radius: 10px;
+    background-color: #333;
+    color: white;
+    font-size: 40px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#checkButton {
+    color: white;
+    background-color: limegreen;
+    font-size: 40px;
+    width: 200px;
+    height: 60px;
+    font: monospace;
+    visibility: hidden;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+hr {
+    margin-left: 10px;
+    width: 215px;
+}
+
+#startButton {
+    color: white;
+    background-color: steelblue;
+    font-size: 40px;
+    width: 200px;
+    height: 60px;
+    font: monospace;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-top: 10px;
+}
